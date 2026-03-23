@@ -27,7 +27,7 @@ public:
 
     // ─── Deneyim (ay başına) ─────────────────────────────────
     static constexpr double EXP_SCORE_PER_MONTH = 0.5;
-    static constexpr int    MONTHS_PER_YEAR = 8;
+    static constexpr int    MONTHS_PER_YEAR = 12;
 
     // ─── Sertifika ───────────────────────────────────────────
     static constexpr double CERT_SCORE_PER_CERT = 2.0;
